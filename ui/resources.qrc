@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="image">
+    <file>concated_img_0.png</file>
+    <file>merged_img_0.png</file>
+    <file>merged_img_1.png</file>
+    <file>merged_img_2.png</file>
+    <file>merged_img_3.png</file>
+    <file>vehicle.png</file>
+    <file>vehicle_2-removebg-preview.png</file>
+  </qresource>
+</RCC>
